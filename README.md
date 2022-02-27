@@ -1,0 +1,2 @@
+# Film-Tavsiye-Sistemi
+Bu proje daha önceden kullanıcının izlemiş olduğu veya bilgi sahibi olduğunu düşündüğü bir film seçildiğinde o filme benzer film tavsiyeleri veren bir sistemdir. Bu sistem bir yapay zeka uygulamasıdır ve öge tabanlı bir öneri sistemi kullanır. Öge bazlı tavsiye sistemi ögeler arasındaki benzerliğe bakarak işlemlerini yapar. Öge tabanlı sistemin çalışma mantığı birbirine benzer ögeleri bulmaktır. Eğer filmleri seven ortak kişiler varsa bu filmlerin benzerlik skorlarını yüksek tutar. 
